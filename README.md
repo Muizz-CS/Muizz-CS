@@ -15,10 +15,10 @@ To come📋:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"/>
 
-I am also a car enthusiast
+I am also a car enthusiast specifically racing and engine rebuilds.
 
 
-<img src="https://media.tenor.com/Vknqir7uZusAAAAi/yibo-wangyibo.gif" width="100px">
+<img src="https://media.tenor.com/Vknqir7uZusAAAAi/yibo-wangyibo.gif" width="150px"> <img src="https://media1.tenor.com/m/Es8aNLEKbfsAAAAC/meaftertherebuild-me-after-the-rebuild.gif" width="150px">
 
 
 
