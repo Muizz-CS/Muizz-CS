@@ -1,5 +1,8 @@
 ## Hi there <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">, I am Abdul Muizz Kiewitz 
 
+I'm currently a part-time student in software development at CodeSpace Academy, enrolled in their Software Development Fundamentals course.
+
+
 <!--
 **Muizz-CS/Muizz-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
