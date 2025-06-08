@@ -18,7 +18,7 @@ To come📋:
 I am also a car enthusiast
 
 
-<img src="https://media.tenor.com/Vknqir7uZusAAAAi/yibo-wangyibo.gif">
+<img src="https://media.tenor.com/Vknqir7uZusAAAAi/yibo-wangyibo.gif" width="100px">
 
 
 
