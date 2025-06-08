@@ -1,6 +1,22 @@
 ## Hi there <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">, I am Abdul Muizz Kiewitz 
 
-I'm currently a part-time student in software development at CodeSpace Academy, enrolled in their Software Development Fundamentals course.
+I'm currently a part-time student in software development at CodeSpace Academy, enrolled in their Software Development Fundamentals course. The skills I will be obtaining throughout my journey and from future courses will help me reach my aspirations of assisting small businesses and start-ups within South Africa by helping them create a professional online presence.
+
+Currently learning📚:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+
+Know hows😎:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+
+To come📋:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+
 
 
 <!--
