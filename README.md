@@ -1,5 +1,7 @@
-## Hi there <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">, I am Abdul Muizz Kiewitz <a href="mailto:kabdulmuizz@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" />
+## Hi there <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">, I am Abdul Muizz Kiewitz 
+
+<a href="mailto:kabdulmuizz@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" width="30" />
 </a>
 
 
