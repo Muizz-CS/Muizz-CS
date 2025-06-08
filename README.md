@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">, I am Abdul Muizz Kiewitz <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="30"/>(mailto:kabdulmuizz@gmail.com)
+## Hi there <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">, I am Abdul Muizz Kiewitz <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="15"/>(kabdulmuizz@gmail.com)
 
 I'm currently a part-time student in software development at CodeSpace Academy, enrolled in their Software Development Fundamentals course. The skills I will be obtaining throughout my journey and from future courses will help me reach my aspirations of assisting small businesses and start-ups within South Africa by helping them create a professional online presence.
 
