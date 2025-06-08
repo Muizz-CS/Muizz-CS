@@ -4,7 +4,7 @@ I'm currently a part-time student in software development at CodeSpace Academy, 
 
 Currently learning📚:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50px"/>
 
 Know hows😎:
 
