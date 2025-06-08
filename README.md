@@ -1,10 +1,4 @@
-## Hi there <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">, I am Abdul Muizz Kiewitz 
-
-Contact me📧:
-<a href="mailto:kabdulmuizz@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" width="30" />
-</a>
-
+## Hi there <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">, I am Abdul Muizz Kiewitz  
 
 I'm currently a part-time student in software development at CodeSpace Academy, enrolled in their Software Development Fundamentals course. The skills I will be obtaining throughout my journey and from future courses will help me reach my aspirations of assisting small businesses and start-ups within South Africa by helping them create a professional online presence.
 
@@ -26,7 +20,10 @@ I am also a car enthusiast, specifically racing and engine rebuilds.
 
 <img src="https://media.tenor.com/Vknqir7uZusAAAAi/yibo-wangyibo.gif" width="150px"> <img src="https://media1.tenor.com/m/Es8aNLEKbfsAAAAC/meaftertherebuild-me-after-the-rebuild.gif" width="150px">
 
-
+Contact me📧:
+<a href="mailto:kabdulmuizz@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/128/16509/16509529.png" alt="Gmail" width="30" />
+</a>
 
 <!--
 **Muizz-CS/Muizz-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
