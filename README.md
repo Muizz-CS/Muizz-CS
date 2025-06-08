@@ -22,7 +22,7 @@ I am also a car enthusiast, specifically racing and engine rebuilds.
 
 Contact me📧:
 <a href="mailto:kabdulmuizz@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/128/16509/16509529.png" alt="Gmail" width="30" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" width="30" />
 </a>
 
 <!--
