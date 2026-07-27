@@ -1,8 +1,7 @@
 ## Hi there <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">, I am Abdul Muizz Kiewitz  
 
-I'm a part-time student in software development at CodeSpace Academy, completing their Software Development Fundamentals course (expected completion: July 2026). Alongside my studies I work as a Service Desk Support Analyst, and I'm building the skills to help small businesses and start-ups within South Africa create a professional online presence.
+I recently completed the Software Development Fundamentals course at CodeSpace Academy (July 2026), earning an Honorary Distinction. Alongside my studies I work as a Service Desk Support Analyst, and I'm building the skills to help small businesses and start-ups within South Africa create a professional online presence.
 
-Currently building: **GR Tuning** — the website for a mobile vehicle-tuning business concept of my own, built with HTML, CSS, and JavaScript, and deployed with Netlify.
 
 Know hows:
 
